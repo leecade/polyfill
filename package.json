@@ -16,7 +16,7 @@
   },
   "license": "CC0 1.0 Universal License",
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-contrib-uglify": "~0.2.4"
+    "grunt": "~1.0.1",
+    "grunt-contrib-uglify": "~2.0.0"
   }
 }
